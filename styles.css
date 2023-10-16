@@ -2,14 +2,17 @@
     font-family: "Roboto", sans-serif; 
     color: #0f8e1a;
 }
+
 .custom-body {
     font-family: "Roboto", sans-serif; 
     color: #000000;
     text-align: justify;
 }
+
 .key-words {
     color: #0f8e1a; 
 }
+
 .image-size {
     height: 360px;
 }
